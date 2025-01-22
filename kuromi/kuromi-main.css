@@ -1,5 +1,5 @@
-@import url(https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi/icons.css);
-@import url(https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi/recolor.css);
+@import url(https://NinoNikoles.github.io/Discord-Themes/kuromi/icons.css);
+@import url(https://NinoNikoles.github.io/Discord-Themes/kuromi/recolor.css);
 
 :root {
 	--transparencycolor:			0, 0, 0;
@@ -21,7 +21,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi/3720a07af3a64dd92590bfafdfeb1cda.jpg);
+	--background:				url(https://NinoNikoles.github.io/Discord-Themes/kuromi/3720a07af3a64dd92590bfafdfeb1cda.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
