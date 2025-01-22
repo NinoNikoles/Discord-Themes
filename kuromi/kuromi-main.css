@@ -7282,3 +7282,48 @@ html:only-child > head + body div.app_bd26cc > div.app_a01fb1 > div.layers_d4b6c
 	transform: unset !important;
 	animation: unset !important;
 }
+
+/*-----------------------------*/
+
+:root {
+	--background: url('https://NinoNikoles.github.io/Discord-Themes/kuromi/3720a07af3a64dd92590bfafdfeb1cda.jpg');
+	--backgroundsize: cover;
+	--backgroundposition: center;
+	--backgroundblur: 0px;
+	--popoutsize: var(--backgroundsize);
+	--backgroundposition: center;
+	--popoutblur: 0px;
+	--transparencycolor: 0,0,0;
+	--accentcolor: 163,106,227;
+	--backdrop: rgba(0,0,0,0.85);
+	--textshadow: transparent;
+	--transparencyalpha: 0.7;
+	--messagetransparency: 0.4;
+	--guildchanneltransparency: 0.25;
+	--chatinputtransparency: 0;
+	--memberlisttransparency: 0.4;
+	--font: Roboto;
+	--textbrightest: 222,222,222;
+	--textbrighter: 222,222,222;
+	--textbright: 222,222,222;
+	--textdark: 222,222,222;
+	--textdarker: 222,222,222;
+	--textdarkest: 222,222,222;
+	--settingsicons: 1;
+	--backdropsize: var(--background-size);
+	--backdropblur: 0px;
+	--version1_0_5: none;
+	--text-link: 
+}
+
+#app-mount .cozyMessage_d5deea, #app-mount .messagesWrapper_e2e187 .cozy_f9f2ca, #app-mount .card_d4f6c7 .cozy_f9f2ca, #app-mount .cozy_b75bb9 {
+	margin-left: calc(80px* var(--usechatbubbles));
+	padding-left: calc(1px*(12* var(--usechatbubbles) + 72*(1 - var(--usechatbubbles))));
+	padding-top: calc(1px*(10* var(--usechatbubbles) + 72*(1 - var(--usechatbubbles))));
+	padding-bottom: calc(1px*(10* var(--usechatbubbles) + 72*(1 - var(--usechatbubbles))));
+}
+  
+.cozy_f9f2ca .header_f9f2ca::after, .cozy_b75bb9 .header_b75bb9::after {
+	top: 4px;
+	left: -34px;
+}
