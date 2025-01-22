@@ -2524,7 +2524,6 @@ button.button_adca65.enabled_adca65:hover svg {
 .bd-social-link[title="BBD" i] .bd-social-logo,
 .bd-social-link[title="BandagedBD" i] .bd-social-logo {
 	background: var(--interactive-normal);
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/settingsicons/betterdiscord.svg) center/contain no-repeat;
 	opacity: 1;
 	transition: background .15s ease;
 }
@@ -2752,7 +2751,7 @@ button.button_adca65.enabled_adca65:hover svg {
 }
 
 #app-mount .container_a1107d {									/* voicesettings			voicebarcontainer						*/
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/voice_level_bar.svg);
+	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/svgs/common/voice_level_bar.svg);
 }
 #app-mount .notches_a1107d {
 	color: transparent !important;
@@ -6603,14 +6602,14 @@ html .bd-toast.toast-warn.icon::before {
 	width: 16px;
 	height: 16px;
 	padding: 0;
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/fav_star_empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/svgs/common/fav_star_empty.svg) center/contain no-repeat;
 }
 #app-mount .fav:hover,
 #app-mount .fav.active {
 	background: #faa61a;
 }
 #app-mount .fav.active {
-	-webkit-mask: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/svgs/common/fav_star.svg) center/contain no-repeat;
+	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/svgs/common/fav_star.svg) center/contain no-repeat;
 }
 
 #app-mount .bd-tab-item:hover {
@@ -7120,7 +7119,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_bd26cc > div.app_a01fb1::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of Kuromi by Cybork is outdated. Please download the newest Version:	https://github.com/NinoNikoles/Discord-Themes" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
