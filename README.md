@@ -2,4 +2,4 @@
 
 A Series of Themes for BetterDiscord
 
-Copyright (C) 2016-2025 Nino "Cybork" Nikoles
+Copyright (C) 2025 Nino "Cybork" Nikoles
