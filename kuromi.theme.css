@@ -1,11 +1,12 @@
-/* ==UserStyle==
-@name           Kuromi
-@description    Edgy
-@version        1.0.1
-@updateURL      https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi.theme.css
-@downloadURL    https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi.theme.css
-@author         Cybork
-==/UserStyle== */
+/**
+ * @name            Kuromi
+ * @author          Cybork
+ * @version         1.0.1
+ * @description     Edgy
+ * @updateURL       https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi.theme.css
+ * @downloadURL     https://raw.githubusercontent.com/NinoNikoles/Discord-Themes/refs/heads/main/kuromi.theme.css
+ * @website         https://github.com/NinoNikoles/Discord-Themes
+*/
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://NinoNikoles.github.io/Discord-Themes/kuromi/kuromi-main.css');
