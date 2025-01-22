@@ -2751,7 +2751,7 @@ button.button_adca65.enabled_adca65:hover svg {
 }
 
 #app-mount .container_a1107d {									/* voicesettings			voicebarcontainer						*/
-	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/svgs/common/voice_level_bar.svg);
+	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/assets/svgs/common/voice_level_bar.svg);
 }
 #app-mount .notches_a1107d {
 	color: transparent !important;
@@ -6602,14 +6602,14 @@ html .bd-toast.toast-warn.icon::before {
 	width: 16px;
 	height: 16px;
 	padding: 0;
-	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/svgs/common/fav_star_empty.svg) center/contain no-repeat;
+	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/assets/svgs/common/fav_star_empty.svg) center/contain no-repeat;
 }
 #app-mount .fav:hover,
 #app-mount .fav.active {
 	background: #faa61a;
 }
 #app-mount .fav.active {
-	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/svgs/common/fav_star.svg) center/contain no-repeat;
+	-webkit-mask: url(https://NinoNikoles.github.io/Discord-Themes/assets/svgs/common/fav_star.svg) center/contain no-repeat;
 }
 
 #app-mount .bd-tab-item:hover {
