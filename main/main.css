@@ -1,5 +1,5 @@
-@import url(https://NinoNikoles.github.io/Discord-Themes/kuromi/icons.css);
-@import url(https://NinoNikoles.github.io/Discord-Themes/kuromi/recolor.css);
+@import url(https://NinoNikoles.github.io/Discord-Themes/main/icons.css);
+@import url(https://NinoNikoles.github.io/Discord-Themes/main/recolor.css);
 
 :root {
 	--transparencycolor:			0, 0, 0;
@@ -11,7 +11,7 @@
 	--accentcolor:				190, 78, 180;
 	
 	--settingsicons:			1;
-	--font:					"gg sans", "Noto Sans";
+	--font:						"gg sans", "Noto Sans";
 	--textshadow:				transparent;
 	
 	--textbrightest: 			255, 255, 255;
@@ -21,8 +21,8 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://NinoNikoles.github.io/Discord-Themes/kuromi/3720a07af3a64dd92590bfafdfeb1cda.jpg);
-	--backgroundposition:			center;
+	--background:				transparent;
+	--backgroundposition:		center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
 	
@@ -7285,7 +7285,7 @@ html:only-child > head + body div.app_bd26cc > div.app_a01fb1 > div.layers_d4b6c
 /*-----------------------------*/
 
 :root {
-	--background: url('https://NinoNikoles.github.io/Discord-Themes/kuromi/3720a07af3a64dd92590bfafdfeb1cda.jpg');
+	--background: transparent;
 	--backgroundsize: cover;
 	--backgroundposition: center;
 	--backgroundblur: 0px;
