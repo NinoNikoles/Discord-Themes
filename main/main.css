@@ -43,6 +43,7 @@
     --channels-default: var(--header-primary);
     --channel-text-area-placeholder: var(--header-secondary);
 
+	--text-normal: var(--white);
     --text-brand: var(--white);
     --text-muted: var(--header-secondary);
 
