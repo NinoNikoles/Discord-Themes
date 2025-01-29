@@ -8,7 +8,6 @@
  * @website         https://github.com/NinoNikoles/Discord-Themes
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://NinoNikoles.github.io/Discord-Themes/main/main.css');
 
 
@@ -17,21 +16,10 @@
 :root {
   --background: url('https://NinoNikoles.github.io/Discord-Themes/assets/images/3720a07af3a64dd92590bfafdfeb1cda.jpg'); /* Background image */
   --backgroundblur: 0px; /* Background blur */
-  --accentcolor: 163,106,227; /* Theme color */
   --transparencyalpha: 0.7; /* Theme transparency */
   --messagetransparency: 0.4; /* Messages transparency */
-  --guildchanneltransparency: 0.25; /* Server list transparency */
-  --memberlisttransparency: 0.4; /* Member list transparency */
   --font: Roboto; /* Font */
 
-  --textbrightest: 222,222,222;
-  --textbrighter: 222,222,222;
-  --textbright: 222,222,222;
-  --textdark: 222,222,222;
-  --textdarker: 222,222,222;
-  --textdarkest: 222,222,222;
-
-  --text-link: rgb(163,106,227) /* Link color */
+  --primary: rgba(163,106,227,1);
+  --primary-dark: rgb(117, 43, 202);
 }
-
-/* Any custom CSS below here */
