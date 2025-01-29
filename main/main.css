@@ -123,6 +123,10 @@ li[class^="messageListItem"] > div {
     overflow: hidden;
 }
 
+li[class^="messageListItem"] > div::before {
+    border-radius: 10px;
+}
+
 li[class^="messageListItem"] [class^="member"] {
     margin-right: 8px;
 }
