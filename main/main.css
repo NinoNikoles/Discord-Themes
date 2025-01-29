@@ -139,3 +139,9 @@ li[class^="messageListItem"] [class^="member"] {
 [class^="membersWrap"] {
     opacity: 1;
 }
+
+[class^="divider"] > [class^="content"] {
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	padding: 5px 10px;
+}
